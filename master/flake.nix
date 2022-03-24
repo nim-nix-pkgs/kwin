@@ -1,5 +1,5 @@
 {
-  description = ''KWin JavaScript API wrapper'';
+  description = ''Wraps the JS API offered by KWin'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
