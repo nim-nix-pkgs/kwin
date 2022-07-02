@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656297808,
-        "narHash": "sha256-dA1mmmEBw969noEqqmp8lnKWyRVh97BS/UluB+BRLtM=",
+        "lastModified": 1656300974,
+        "narHash": "sha256-PAZmKyD/Q5F5QZHGQ49g7WEtFHfQ4kJNQWXqP2mKepw=",
         "owner": "nim-nix-pkgs",
         "repo": "kwin",
-        "rev": "d1444c9822c8eb965bbb6fad7cd4833f05b213f6",
+        "rev": "e323bd1a3f1443fdaa4a4b872b7322ae4a1bb03e",
         "type": "github"
       },
       "original": {
